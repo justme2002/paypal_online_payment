@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jexFNcYSM0zeSje0FX9opkmB4XgRPb37BtrycsH2bsQ=",
+  "Source": "asp_net_core_paypal",
+  "BasePath": "_content/asp_net_core_paypal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
